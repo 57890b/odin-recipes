@@ -1,4 +1,4 @@
 # odin-recipes
 
-Build a basic recipe website
+This is my first website created by following TOP, and the first in general too lol.
 
